@@ -1,9 +1,10 @@
 {
-    "langRes": [
         {
+    "id":1,
             "version": "1.0"
         },
         {
+            "id":2,
             "langs": {
                 "tr": {
                     "appVersion": "Version 1.0.1",
@@ -61,5 +62,5 @@
                 }
             }
         }
-    ]
+    
 }
