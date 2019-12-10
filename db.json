@@ -1,4 +1,4 @@
-{
+[
     "tr":{
     "appVersion":"Version 1.0.1",
     "email":"Email",
@@ -53,4 +53,4 @@
     "done":"Done",
     "shipYourOnline":"شحن أوامر عبر الإنترنت مباشرة من شبكة التجزئة الخاصة بك."
 }
-}
+]
