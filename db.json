@@ -6,8 +6,23 @@
         },
         {
             "id": 2,
-            "langs": "test"
-            
+            "langs": {
+                "tr": {
+                    "add": "Add",
+                    "done": "Done",
+                    "shipYourOnline": "çevirimiçi SİPARİŞLERİNİZİ PERAKENDECİ AĞINIZ ÜZERİNDEN DİREK GÖNDERİN!"
+                },
+                "en": {
+                    "add": "Add",
+                    "done": "Done",
+                    "shipYourOnline": "SHIP YOUR ONLINE ORDERS DIRECTLY FROM YOUR RETAIL NETWORK."
+                },
+                "ar": {                    
+                    "add": "Add",
+                    "done": "Done",
+                    "shipYourOnline": "شحن أوامر عبر الإنترنت مباشرة من شبكة التجزئة الخاصة بك."
+                }
+            }
         }
     ]
 }
