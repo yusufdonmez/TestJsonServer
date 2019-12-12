@@ -3,27 +3,32 @@
         {
             "id": "kerim",
             "createShipment": "kerim12312321",
-            "status": "canceled"
+            "status": "searchingDriver"
         },
         {
-            "id": "aramex",
+            "id": "aramex1",
             "createShipment": "ara12312312",
             "status": "returned"
         },
         {
-            "id": "mng",
+            "id": "lastmile1",
             "createShipment": "mng999312",
             "status": "goingToPickup"
         },
         {
-            "id": "ups",
-            "createShipment": "ups7777",
-            "status": "delivered"
+            "id": "lastmile2",
+            "createShipment": "mng999312",
+            "status": "outForDelivery"
         },
         {
-            "id": "tam",
-            "createShipment": "tam333",
-            "status": "goingToPickup"
+            "id": "lastmile3",
+            "createShipment": "mng999312",
+            "status": "searchingDriver"
+        },
+        {
+            "id": "lastmile4",
+            "createShipment": "mng999312",
+            "status": "delivered"
         }
     ]
 }
