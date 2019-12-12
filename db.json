@@ -1,11 +1,11 @@
 {
     "langRes": [
         {
-            "id": 1,
+            "id": "kerim",
             "version": "1.0"
         },
         {
-            "id": 2,
+            "id": "aramex",
             "langs": {
                 "tr": {                    
                         "appVersion": "App Version 1.0",
