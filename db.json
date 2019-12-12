@@ -8,22 +8,22 @@
         {
             "id": "aramex",
             "createShipment": "ara12312312",
-            "status": "accepted"
+            "status": "returned"
         },
         {
             "id": "mng",
             "createShipment": "mng999312",
-            "status": "waitingDriver"
+            "status": "goingToPickup"
         },
         {
             "id": "ups",
             "createShipment": "ups7777",
-            "status": "accepted"
+            "status": "delivered"
         },
         {
             "id": "tam",
             "createShipment": "tam333",
-            "status": "ready"
+            "status": "goingToPickup"
         }
     ]
 }
