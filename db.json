@@ -2,7 +2,16 @@
     "langRes": [
         {
             "id": "kerim",
-            "version": "1.0"
+            "action": [
+                {
+                    "id":"createShipment",
+                    "shipmentID":"asda123"
+                },
+                {
+                    "id":"status",
+                    "status":"canceled"
+                }
+            ]
         },
         {
             "id": "aramex",
