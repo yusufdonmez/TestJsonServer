@@ -2,33 +2,13 @@
     "langRes": [
         {
             "id": "kerim",
-            "action": [
-                {
-                    "id":"createShipment",
-                    "shipmentID":"asda123"
-                },
-                {
-                    "id":"status",
-                    "status":"canceled"
-                }
-            ]
+            "createShipment": "kerim12312321",
+            "status": "canceled"
         },
         {
             "id": "aramex",
-            "langs": {
-                "tr": {                    
-                        "appVersion": "App Version 1.0",
-                        "allRightsText": "All Rights Reserved OTO @ 2019"
-                    },
-                    "en": {
-                        "appVersion": "App Version 1.0",
-                        "allRightsText": "All Rights Reserved OTO @ 2019"
-                    },
-                    "ar": {
-                        "appVersion": "App Version 1.0",
-                        "allRightsText": "All Rights Reserved OTO @ 2019"
-                    }
-                }
-            }
-        ]
-    }
+            "createShipment": "ara12312312",
+            "status": "accepted"
+        }
+    ]
+}
